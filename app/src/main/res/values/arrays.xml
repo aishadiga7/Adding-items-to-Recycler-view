@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animals">
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Giraffe</item>
+        <item>Gorilla</item>
+    </string-array>
+</resources>
